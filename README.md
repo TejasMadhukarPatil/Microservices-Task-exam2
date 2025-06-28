@@ -39,9 +39,20 @@ curl http://localhost:3003/api/order
 ![WhatsApp Image 2025-06-28 at 16 10 20_418ba639](https://github.com/user-attachments/assets/284e11b9-3bc3-4c3f-b0a7-00cdfda871a0)
 
 Minikube Setup and Validation
-![image](https://github.com/user-attachments/assets/b0834dab-dc7b-483b-a1b9-cedc75e73190)
+Minikube setup steps
 
+Deployment process using kubectl apply -f
+
+Service testing instructions using kubectl port-forward or direct service names
+
+![image](https://github.com/user-attachments/assets/b0834dab-dc7b-483b-a1b9-cedc75e73190)
 ![image](https://github.com/user-attachments/assets/26b3cdd7-1ce8-4a6d-8522-fd64a64bfa14)
+![image](https://github.com/user-attachments/assets/0db3ca2d-7e41-4fab-9276-3ff785782a77)
+![image](https://github.com/user-attachments/assets/3a936570-ebe7-4f2b-af7f-2576abedb7e6)
+![image](https://github.com/user-attachments/assets/6928a2cb-1704-420b-be71-780475190b64)
+
+
+
 
 
 
